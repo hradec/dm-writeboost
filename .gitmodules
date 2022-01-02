@@ -1,0 +1,6 @@
+[submodule "writeboost"]
+	path = writeboost
+	url = https://gitlab.com/onlyjob/writeboost.git
+[submodule "dm-writeboost-tools"]
+	path = dm-writeboost-tools
+	url = https://github.com/akiradeveloper/dm-writeboost-tools.git
